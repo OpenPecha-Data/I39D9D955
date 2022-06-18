@@ -1,0 +1,39 @@
+id: I39D9D955
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:34:31.468982'
+last_modified: '2022-06-18T20:34:31.469017'
+parser: null
+source_metadata:
+  title: Hagiography of sPyan snga Glang ri thang pa Blo gros rgyal mtshan dpal bzang
+    po (1432–1488)
+  author: གསེར་མདོག་པཎ་ཆེན་ཤཱཀྱ་མཆོག་ལྡན།
+  description: 'Digital version 4.0 {Tibetan}; master xml (completed: 2012-09); head
+    entries supplemented and linebreaks encoded, revision in process, no thematic
+    TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Volker Caumanns (vc)
+  - Editorial process:Volker Caumanns (vc), Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:Volker Caumanns (vc)
+  text_witnesses: https://sakyaresearch.org/sources/363
+  bases:
+    3d03:
+      title: Hagiography of sPyan snga Glang ri thang pa Blo gros rgyal mtshan dpal
+        bzang po (1432–1488)
+      order: 1
+      base_file: 3d03.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
